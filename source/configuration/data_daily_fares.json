@@ -1,0 +1,94 @@
+{
+  "Search-daily-fares": [
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'Economy')])[2]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'Premium economy')])[19]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//i[contains(.,'close')])[3]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "//input[contains(@id,'origin-input')]",
+      "fieldValue": "chica"
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'Chicago, IL, US (MDW)')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//button[@aria-label='slide 2 of 12, January 2024']",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//button[@aria-label='Friday 12th January, 2024']",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'Roundtrip')])[2]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'One-way')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[@class=' css-0'][contains(.,'1 Passenger, Premium economy')]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'add')])[3]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//span[@class=' css-0'][contains(.,'Promotion Code')])[2]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "(//input[@type='text'])[6]",
+      "fieldValue": "12345"
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//button[contains(.,'Done')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'Search flights')])[2]",
+      "fieldValue": ""
+    }
+  ]
+}

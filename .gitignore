@@ -1,0 +1,8 @@
+# Unit test & pytest coverage reports
+source/TestCases/__pycache__/
+source/helper/__pycache__/
+source/contract/__pycache__/
+/source/actions/__pycache__/
+*.idea/
+source/__pycache__/
+

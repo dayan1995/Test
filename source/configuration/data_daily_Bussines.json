@@ -1,0 +1,161 @@
+{
+  "Search-daily-bussines": [
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'Economy')])[2]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'Business')])[19]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//i[contains(.,'compare_arrows')]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[@type='button'])[35]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'Roundtrip')])[2]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'Multi-city')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'Miles')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//a[contains(.,'Multi-city')]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "//input[@id='originInput5']",
+      "fieldValue": "chica"
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'Chicago, IL, US (ORD)')])[23]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "//input[@id='destinationInput6']",
+      "fieldValue": "san"
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'San Francisco, CA, US (SFO)')])[23]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "SELECT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//select[@id='departTimePreference10']",
+      "fieldValue": "11:00AM"
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//input[@id='DepartDate']",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//td[contains(.,'24')])[3]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "(//input[contains(@type,'text')])[5]",
+      "fieldValue": "paris"
+    },
+       {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'Paris, FR (PAR - All Airports)')])[23]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "(//input[contains(@type,'text')])[6]",
+      "fieldValue": "los"
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'Los Angeles, CA, US (LAX - All Airports)')])[23]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//input[@id='DepartDate_0']",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//td[@aria-label='Wednesday, January 31, 2024']",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "SELECT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//select[contains(@aria-labelledby,'label')])[2]",
+      "fieldValue": "8:00AM"
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//label[contains(.,'First')]",
+      "fieldValue": ""
+    },
+      {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'United and United Express® only')]",
+      "fieldValue": ""
+    },
+       {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "SELECT",
+      "fieldName": "//select[contains(@id,'sortFlights26')]",
+      "fieldValue": "duration_fastest"
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[@type='submit'])[1]",
+      "fieldValue": ""
+    }
+
+  ]
+}

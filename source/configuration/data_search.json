@@ -1,0 +1,148 @@
+{
+  "Search-one-way": [
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[@type='button'])[3]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'One-way')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'1 Passenger, Economy')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'Economy')])[32]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[@class='w-full css-0'][contains(.,'Premium economy')]",
+      "fieldValue": ""
+    },
+    {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'add')])[3]",
+      "fieldValue": ""
+    },
+     {
+      "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//button[contains(.,'Book with cash')]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'Book with miles')]",
+      "fieldValue": ""
+    },
+     {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//i[contains(.,'today')])[1]",
+      "fieldValue": ""
+    },
+     {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//button[contains(.,'17')])[2]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//button[contains(.,'Done')]",
+      "fieldValue": ""
+    },
+      {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//button[contains(.,'Search flights')]",
+      "fieldValue": ""
+    },
+     {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//span[contains(.,'Flight + hotel')])[1]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "//input[@id='vacationOriginInput']",
+      "fieldValue": "chica"
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'Chicago, IL')]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATHNAME",
+      "fieldName": "//input[@id='vacationDestinationInput']",
+      "fieldValue": "san"
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'San Diego, CA')]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//input[contains(@id,'DepartDate')])[1]",
+      "fieldValue": ""
+    },
+     {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//td[contains(.,'8')])[8]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//input[contains(@type,'text')])[4]",
+      "fieldValue": ""
+    },
+    {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//td[contains(.,'24')])[3]",
+      "fieldValue": ""
+    },
+      {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//div[contains(.,'1 room')])[18]",
+      "fieldValue": ""
+    },
+     {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "(//li[contains(@role,'option')])[2]",
+      "fieldValue": ""
+    },
+     {
+       "fieldType": "INPUT",
+      "fieldIdentifier": "XPATH",
+      "fieldName": "//span[contains(.,'Find trips')]",
+      "fieldValue": ""
+    }
+  ]
+}
