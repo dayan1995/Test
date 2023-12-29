@@ -4,5 +4,6 @@ source/helper/__pycache__/
 source/contract/__pycache__/
 /source/actions/__pycache__/
 *.idea/
+/testSelenium.egg-info
 source/__pycache__/
 
