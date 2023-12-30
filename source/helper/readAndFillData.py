@@ -16,5 +16,3 @@ class readAndFillData:
             elif dictionary["fieldType"] == 'INPUT':
                 input = actionsTypeInput(self.driver, dictionary["fieldName"], dictionary["fieldIdentifier"], os.path.expandvars(dictionary["fieldValue"]))
                 input.fill()
-
-
